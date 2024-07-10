@@ -6,11 +6,11 @@ This software package implements iSCALE
 an innovative framework designed to predict gene expression for large-sized tissues with near single-cell resolution. 
 
 
-### getting starting
+#### getting starting
 
 download checkpoints available at: https://upenn.box.com/s/kmtmsa3lv8u92wuaw23uui40mgqiyxrc
-### add checkpoints to the folder "checkpoints" in the iSCALE repository
+#### add checkpoints to the folder "checkpoints" in the iSCALE repository
 run_iSCALE.sh 
 
 
-### additional information about data input structure and parameters will be provided on GitHub.
+#### additional information about data input structure and parameters will be provided on GitHub.
