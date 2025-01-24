@@ -1,0 +1,2 @@
+Please download checkpoints at: https://upenn.box.com/s/cburekr425ibu276wyxki09q35z2o3x0
+Place checkpoints folder in iSCALE directory.
