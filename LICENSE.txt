@@ -1,6 +1,6 @@
 COPYRIGHT AND PERMISSION NOTICE
 
-Penn Software MISO
+Penn Software iSCALE
 
 Copyright (C) 2022 The Trustees of the University of Pennsylvania
 
