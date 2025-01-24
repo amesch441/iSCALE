@@ -8,7 +8,7 @@ All rights reserved.
 
 
 
-The Trustees of the University of Pennsylvania ("Penn") and Kyle Coleman the developers ("Developer") of Penn Software MISO ("Software") give recipient ("Recipient") and Recipient's Institution ("Institution") permission to use, copy, and modify the software in source and binary forms, with or without modification for non-profit research purposes only provided that the following conditions are met:
+The Trustees of the University of Pennsylvania ("Penn") and Amelia Schroeder the developers ("Developer") of Penn Software iSCALE ("Software") give recipient ("Recipient") and Recipient's Institution ("Institution") permission to use, copy, and modify the software in source and binary forms, with or without modification for non-profit research purposes only provided that the following conditions are met:
 
 
 
