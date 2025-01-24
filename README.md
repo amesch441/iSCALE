@@ -8,6 +8,9 @@ A novel framework designed to integrate multiple daughter captures and utilize H
 
 # Get Started
 
+Please download checkpoints and Data folders from: https://upenn.box.com/s/cburekr425ibu276wyxki09q35z2o3x0
+Then place checkpoints and Data folder into your iSCALE directory.
+
 To run the demo, use the file run_iSCALE.sh with directory prefix="Data/demo/gastricTumor/"  
 
 ```
