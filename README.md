@@ -8,8 +8,12 @@ A novel framework designed to integrate multiple daughter captures and utilize H
 
 # Get Started
 
-To run the demo,run run_iSCALE.sh scripts with directory prefix="Data/demo/gastricTumor/"  
+To run the demo, run run_iSCALE.sh scripts with directory prefix="Data/demo/gastricTumor/"  
+
 ```
+sbatch run_iSCALE.sh s
+```
+
 Using GPUs is highly recommended.
 
 ### Additional information about data input structure and parameters will be provided soon
