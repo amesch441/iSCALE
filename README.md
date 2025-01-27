@@ -19,4 +19,4 @@ sbatch run_iSCALE.sh
 
 Using GPUs is highly recommended.
 
-### Additional information about data input structure and parameters will be provided soon
+Additional information about data input structure and parameters will be provided soon
